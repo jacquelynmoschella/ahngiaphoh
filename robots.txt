@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ecohshoed.lana-psy.ru/sitemap.xml
